@@ -12,4 +12,7 @@
 
 - Then I began thinking about what data I wanted to visualize, and creating DAX equations for them
 
-- I ended the project by prettifying a ton, formatting it with colors and transparency. Pretty proud of it myself. 
+- I ended the project by prettifying a ton, formatting it with colors and transparency. Was satisfying.
+
+
+![image](https://github.com/user-attachments/assets/b85576c9-2c1b-4178-a1d5-4da562de3d44)
