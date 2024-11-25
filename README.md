@@ -16,3 +16,8 @@
 
 
 ![image](https://github.com/user-attachments/assets/b85576c9-2c1b-4178-a1d5-4da562de3d44)
+
+
+## Reflection
+
+- Probbbbbbbably should have picked the 2023 spotify dataset instead, as it is still 2024 as of writing, which explains the lack of data when it came to the cross-company data (apple music, soundcloud, etc)
