@@ -15,7 +15,8 @@
 - I ended the project by prettifying a ton, formatting it with colors and transparency. Was satisfying.
 
 
-![image](https://github.com/user-attachments/assets/b85576c9-2c1b-4178-a1d5-4da562de3d44)
+![image](https://github.com/user-attachments/assets/595f431f-bde1-4654-9022-2283a9bd4a59)
+
 
 
 ## Reflection
